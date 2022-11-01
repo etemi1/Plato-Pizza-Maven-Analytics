@@ -36,9 +36,9 @@ Mario Maven (Manager, Plato's Pizza)
 ## Data Analysis and Visualization:
 ![IMG-7719](https://user-images.githubusercontent.com/41531796/199361424-98b0b106-fd9a-4a70-a2f7-9eafd9ddce56.jpg)
 ![IMG-7720](https://user-images.githubusercontent.com/41531796/199361437-f9615998-f01c-4b05-a3c9-acf6000ad048.jpg)
- 
+
 ## Data Insights  
-1. Plato's Top 7 Pizzas where Classic Deluxe, Barbecue Chicken Pizza, Hawaiian, Pepperoni, Thai Chicken, Californi Chicken, Sicilian, Spicy, SouthWest Chicken and Big meat Pizza
+1. Plato's has 32 types of Pizza their Top 7 Pizzas are Classic Deluxe, Barbecue Chicken Pizza, Hawaiian, Pepperoni, Thai Chicken, Californi Chicken, Sicilian, Spicy, SouthWest Chicken and Big meat Pizza
 2. Their 7 worst performing pizzas where Green Garden, Chicken, Italian Vegetable, Chicken Pesto, Spinach, Soppressata, Spinach,Calabrese, Mediterranean and Brie Carre Pizza
 3. Plato had their Peak Days On Friday and Saturday and their Lowest Days was on Sunday
 4. Plato had 5 sizes of Pizzas which are Large, Medium, Small, XL, XXL. Generall, Large make up 38.2% of their Revenue followd by Medium which makes up 31.5% and Small a 29.1% Of their Revenue. This means that these are the main sizes that sell the most, XL and XXL sales are almost significant i suggest Plato to remove that from their stock or keep it in really Small quantity
