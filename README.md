@@ -28,8 +28,10 @@ Thanks in advance,
 Mario Maven (Manager, Plato's Pizza)
 
 ## Data Preview
-![Screenshot (100)](https://user-images.githubusercontent.com/41531796/199360878-5af58f3d-559f-4ba9-9185-f9a4eb99a15e.png)
-![Screenshot (101)](https://user-images.githubusercontent.com/41531796/199360889-ca0ae105-b1fa-48e2-9cf2-ee5988489bbf.png)
+![IMG-7722](https://user-images.githubusercontent.com/41531796/199361510-e00da2c2-8a15-4001-93d0-a27305243cf2.jpg)
+![IMG-7724](https://user-images.githubusercontent.com/41531796/199361531-dc859f89-ba43-46fb-95ad-8642acba7369.jpg)
+![IMG-7723](https://user-images.githubusercontent.com/41531796/199361536-eccaa65b-2970-46c0-b9d2-34ff6bd93556.jpg)
+![IMG-7725](https://user-images.githubusercontent.com/41531796/199361541-d652f480-e75f-427a-a0f7-c98492625abc.PNG)
 
-![Screenshot (102)](https://user-images.githubusercontent.com/41531796/199360930-f9a8f05a-7583-4ea0-8454-666a950ccbfb.png)
-![Screenshot (103)](https://user-images.githubusercontent.com/41531796/199360947-ec6b94c4-a943-4c49-9547-e68e578d01a9.png)
+![IMG-7719](https://user-images.githubusercontent.com/41531796/199361424-98b0b106-fd9a-4a70-a2f7-9eafd9ddce56.jpg)
+![IMG-7720](https://user-images.githubusercontent.com/41531796/199361437-f9615998-f01c-4b05-a3c9-acf6000ad048.jpg)
