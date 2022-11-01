@@ -26,3 +26,10 @@ That's all I can think of for now, but if you have any other ideas I'd love to h
 Thanks in advance,
 
 Mario Maven (Manager, Plato's Pizza)
+
+## Data Preview
+![Screenshot (100)](https://user-images.githubusercontent.com/41531796/199360878-5af58f3d-559f-4ba9-9185-f9a4eb99a15e.png)
+![Screenshot (101)](https://user-images.githubusercontent.com/41531796/199360889-ca0ae105-b1fa-48e2-9cf2-ee5988489bbf.png)
+
+![Screenshot (102)](https://user-images.githubusercontent.com/41531796/199360930-f9a8f05a-7583-4ea0-8454-666a950ccbfb.png)
+![Screenshot (103)](https://user-images.githubusercontent.com/41531796/199360947-ec6b94c4-a943-4c49-9547-e68e578d01a9.png)
