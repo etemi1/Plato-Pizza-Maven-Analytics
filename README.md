@@ -31,12 +31,15 @@ Mario Maven (Manager, Plato's Pizza)
 ![IMG-7722](https://user-images.githubusercontent.com/41531796/199361510-e00da2c2-8a15-4001-93d0-a27305243cf2.jpg)
 ![IMG-7724](https://user-images.githubusercontent.com/41531796/199361531-dc859f89-ba43-46fb-95ad-8642acba7369.jpg)
 ![IMG-7723](https://user-images.githubusercontent.com/41531796/199361536-eccaa65b-2970-46c0-b9d2-34ff6bd93556.jpg)
-![IMG-7725](https://user-images.githubusercontent.com/41531796/199361541-d652f480-e75f-427a-a0f7-c98492625abc.PNG)
+
 
 ## Data Cleaning and Modelling
 There were 4 tables Orders, Order_Details, Pizza_types and Pizza_sizes
  This Data wasn't all that data the main thing i needed to do was merge remodel the data.  I merged Orders table with Order details and created a custom column for calculating Profit, I used DAX formular to calculate the total quantity 
 I duplicated Order tables and formed a date tables with that, then i removed the constant "The" in pizza_names cause it will make pizza names too long for my visualizations. 
+### Data Model after cleaning
+![Screenshot (104)](https://user-images.githubusercontent.com/41531796/199365728-951737da-7d42-4e77-83a3-d7ad9633f10e.png)
+
 
 
 ## Data Visualization:
